@@ -1,0 +1,9 @@
+{
+  "name": "droid-fury",
+  "version": "1.0.0",
+  "description": "DROID FURY - shooter arcade top-down neon",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
